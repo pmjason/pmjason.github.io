@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pmjason/pmjason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[小红书运营手册](https://xiaohongshuyunying.cn/)
+[小红书运营手册-全网最专业的运营指南涨粉变现干货](https://xiaohongshuyunying.cn/)
